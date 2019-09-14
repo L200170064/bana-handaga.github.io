@@ -1,2 +1,1 @@
-# bana-handaga.github.io
-myio
+# oki.github.io
